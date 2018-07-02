@@ -1,0 +1,2 @@
+2018-06-05 16:49:50,727 - log.py[line:22] - ERROR: https://cq.lianjia.com/ershoufang/pg1/   Cannot connect to host m.lianjia.com:443 ssl:True [Connect call failed ('211.159.232.241', 443)]
+2018-06-05 16:55:14,074 - log.py[line:22] - ERROR: https://zh.lianjia.com/ershoufang/pg1/   Cannot connect to host m.lianjia.com:443 ssl:True [None]
