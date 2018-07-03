@@ -1,0 +1,26 @@
+tasks = [
+            "ds",#DS
+            "jeep",#Jeep
+            "mini",#迷你
+            "aodi",#奥迪
+            "baoma",#宝马
+            "benchi",#奔驰
+            "bentian",#本田
+            "biaozhi",#标志
+            "bieke",#别克
+            "dazhong",#大众
+            "fengtian",#丰田
+            "fute",#福特
+            "jiebao",#捷豹
+            "kaidilake",#凯迪拉克
+            "leikesasi",#雷克萨斯
+            "luhu",#路虎
+            "mazida",#马自达
+            "richan",#日产
+            "woerwo",#沃尔沃
+            "wulingqiche",#五菱
+            "xiandai",#现代
+            "xuefolan",#雪佛兰
+            "xuetielong",#雪铁龙
+            "yingfeinidi"#英菲尼迪
+        ]
